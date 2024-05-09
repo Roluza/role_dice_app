@@ -1,6 +1,6 @@
 # role_dice_app
 
-App for game
+Applications Regarding Games Role Dice
 
 ## Getting Started
 
